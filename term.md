@@ -17,7 +17,12 @@ Semantic Mediation Mechanism 	无固定且普遍接受的译法，暂以e文代�
 comparative effectiveness research		比较效果研究		
 
 drug withdrawals	撤回药物		
- 
+
+Dissemination Plan		宣传计划		
+
+spontaneous reporting  自发上报/自动化上报		
+
+acute coronary syndrome (ACS) event   急性冠脉综合征
 		
 
 ##	参考资料		
@@ -26,4 +31,4 @@ drug withdrawals	撤回药物
 3. 	[Temporal pattern discovery in longitudinal electronic patient records](http://link.springer.com/article/10.1007%2Fs10618-009-0152-3)	
 4.	[科学网博客：所谓探索性数据分析Exploratory Data Analysis更宜译作"试探性" ](http://blog.sciencenet.cn/blog-350729-662859.html)	
 5.	[维基百科](http://en.wikipedia.org/wiki/Exploratory_data_analysis)	
-6.	
+6.	[急性冠状动脉综合征(Acute Coronary Syndrome, ACS)](http://wryll.blog.163.com/blog/static/106565997201273171353873/)

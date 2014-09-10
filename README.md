@@ -26,7 +26,7 @@ RESEARCH”的硕士学位论文)。对此三类材料进行整理总结，看�
 
 ## 论文		
 ## 源代码		
-
-		
-
-## [词汇](term.md)
+* SemanticMDR：基于ISO/IEC 11179的 元数据注册库和元数据仓库		 
+* Ontmalizer：从XML SCHEMA(xsd文件)和XML数据到RDF/OWL自动转换的工具	
+## 其他
+[中英文词汇对照](term.md)
