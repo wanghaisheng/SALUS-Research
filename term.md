@@ -24,6 +24,9 @@ spontaneous reporting  自发上报/自动化上报
 
 acute coronary syndrome (ACS) event   急性冠脉综合征
 		
+background population	背景总体   	
+
+pharmacovigilance 药物监督系统	
 
 ##	参考资料		
 1.	[百度百科：临床试验（医学术语）](http://baike.baidu.com/subview/419177/15302556.htm)		
