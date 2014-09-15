@@ -317,3 +317,4 @@ Task 8.4 Ethical Management
 
 ## 其他
 [中英文词汇对照](term.md)
+[药物不良反应数据库](doc/material/Finalrepository_2Sep2014_DLP30June2013.pdf)[来源](http://www.imi-protect.eu/adverseDrugReactions.shtml)

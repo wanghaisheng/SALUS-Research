@@ -33,7 +33,13 @@ observational studies  观察性研究
 Health Outcomes of Interest  健康结果     
 pharmacological         药理学      
 
-metabolic complications of obesity  肥胖代谢性并发症
+metabolic complications of obesity  肥胖代谢性并发症    
+
+Exploitation of results           
+
+state of the art        最先进的              
+
+
 
 ##	参考资料		
 1.	[百度百科：临床试验（医学术语）](http://baike.baidu.com/subview/419177/15302556.htm)		
