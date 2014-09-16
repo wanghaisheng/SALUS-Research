@@ -63,7 +63,9 @@ Task 1.2 Quality Assurance
 
 [D1.2.1	Quality Assurance Plan]()
 
- ** Dissemination, Exploitation and Innovation Related Activities ** 	
+
+**Dissemination, Exploitation and Innovation Related Activities** 	
+
 
 Task 2.1 Exploitation	
 
@@ -100,7 +102,7 @@ Task 2.4 - Cooperation with other projects and European intuitional bodies in Dr
 
 [D2.4.3	Report on Collaboration with other projects and Institutional bodies in Drug surveillance (c)]()
 
- ** S&T Management and SALUS System Architecture	**	
+ **S&T Management and SALUS System Architecture**	
 
 
 Task 3.1 Scientific and Technical Management	
@@ -135,7 +137,7 @@ Task 3.4 Conceptual Design of SALUS Architecture
 [D3.4.1	Conceptual Design of the  SALUS Architecture]()
 
 
-Semantic Interoperability Framework for Post Market Safety Studies	
+**Semantic Interoperability Framework for Post Market Safety Studies	**
 
 
 Task 4.1 – Creating the Content Models for the Functional Interoperability Profiles defined for Post Market Safety Studies		
@@ -166,7 +168,7 @@ Task 4.4 – Developing the Semantic Mediation Framework
 [D4.4.2	SALUS Semantic Mediation Framework  -R2]()
 
 
-** Functional Interoperability Profiles and Toolkits for Exposing EHRs for secondary use in Post Market Safety Studies	** 		
+**Functional Interoperability Profiles and Toolkits for Exposing EHRs for secondary use in Post Market Safety Studies** 		
 
 
 Task 5.1 Subscription Based Interoperability Profiles and Open Source Toolsets	
@@ -220,7 +222,7 @@ Task 6.3 Integration of SALUS Components
 [D6.3.2	Integrated SALUS Components –R2]()		
 
 
-** SALUS Testing and Validation Framework **  	
+**SALUS Testing and Validation Framework**  	
 
 Task 7.1 Functional and Non-Functional Tests and End-User Validation of SALUS Components	
 
@@ -237,7 +239,7 @@ Task 7.2 SALUS Pilot Application Validation
 [D7.2.2	Validation Report for SALUS Pilot Application]()
 
 
-** SALUS Pilot application ** 	
+**SALUS Pilot applicationss** 	
 
 
 Task 8.1 Requirements of SALUS Pilot Application	
